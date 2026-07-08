@@ -1,0 +1,501 @@
+Full Name,Email,Phone Number,City,State,Lead Status,Source,Created Date,Remarks
+Neha Malhotra,,9611945971,Mumbai,Maharashtra,,meridian_tower,02/02/2026,Comparing with other projects
+Pooja Chatterjee,,9349668248,Delhi,Delhi,not interested,meridian_tower,03/03/2026,Comparing with other projects
+Manoj Menon,manoj.menon3@example.com,,Mumbai,Maharashtra,ringing,,04/04/2026,Wants brochure emailed
+Suresh Sharma,suresh.sharma4@example.com,,Delhi,Delhi,busy right now,varah_swamy,05/05/2026,
+Divya Kapoor,divya.kapoor5@example.com,9255839722,Kolkata,West Bengal,deal closed,,06/06/2026,No response yet
+Anita Sharma,,9885960302,Mumbai,Maharashtra,ringing,facebook ads,07/07/2026,Requested video walkthrough
+Rohan Malhotra,rohan.malhotra7@example.com,9533478617,Mumbai,Maharashtra,ringing,eden_park,08/08/2026,Budget mismatch
+Ritu Menon,,9218915160,Chennai,Tamil Nadu,deal closed,varah_swamy,09/09/2026,Comparing with other projects
+Karan Patel,,9986837088,Ahmedabad,Gujarat,interested,facebook ads,10/10/2026,Site visit scheduled
+Rahul Joshi,rahul.joshi10@example.com,9484088884,Delhi,Delhi,ringing,meridian_tower,11/11/2026,Asked to call back tomorrow
+Kavya Sharma,kavya.sharma11@example.com,9743472418,Ahmedabad,Gujarat,follow up later,sarjapur_plots,12/12/2026,Budget mismatch
+Manoj Verma,manoj.verma12@example.com,9129586603,Mumbai,Maharashtra,interested,,13/01/2026,Requested video walkthrough
+Amit Sharma,,9555000122,Chennai,Tamil Nadu,,eden_park,14/02/2026,Wants brochure emailed
+Priya Reddy,priya.reddy14@example.com,,Kolkata,West Bengal,not interested,varah_swamy,15/03/2026,Wants brochure emailed
+Aditya Nair,aditya.nair15@example.com,9436287161,Bangalore,Karnataka,no answer,eden_park,16/04/2026,No response yet
+Kavya Bhatt,kavya.bhatt16@example.com,9587069998,Kolkata,West Bengal,ringing,varah_swamy,17/05/2026,Site visit scheduled
+Suresh Gupta,suresh.gupta17@example.com,9279658918,Mumbai,Maharashtra,follow up later,,18/06/2026,
+Pooja Sharma,pooja.sharma18@example.com,,Hyderabad,Telangana,interested,varah_swamy,19/07/2026,Requested video walkthrough
+Rohan Iyer,rohan.iyer19@example.com,9355788121,Kolkata,West Bengal,no answer,facebook ads,20/08/2026,Comparing with other projects
+Suresh Menon,,9530145316,Pune,Maharashtra,,facebook ads,21/09/2026,Requested video walkthrough
+Swati Joshi,swati.joshi21@example.com,9566513769,Delhi,Delhi,busy right now,eden_park,22/10/2026,Site visit scheduled
+Meera Iyer,meera.iyer22@example.com,9240708982,Hyderabad,Telangana,interested,varah_swamy,23/11/2026,Requested video walkthrough
+Neha Verma,,,Bangalore,Karnataka,interested,,24/12/2026,No response yet
+Ritu Sharma,ritu.sharma24@example.com,9457917316,Hyderabad,Telangana,ringing,eden_park,25/01/2026,Wants brochure emailed
+Arjun Gupta,arjun.gupta25@example.com,,Mumbai,Maharashtra,deal closed,facebook ads,26/02/2026,Comparing with other projects
+Meera Sharma,meera.sharma26@example.com,9657183566,Bangalore,Karnataka,not interested,google,27/03/2026,Requested video walkthrough
+Karan Singh,karan.singh27@example.com,9525667013,Mumbai,Maharashtra,no answer,,28/04/2026,Budget mismatch
+Aditya Gupta,aditya.gupta28@example.com,9944004249,Kolkata,West Bengal,ringing,facebook ads,01/05/2026,Requested video walkthrough
+Sneha Patel,sneha.patel29@example.com,9239509957,Kolkata,West Bengal,ringing,meridian_tower,02/06/2026,
+Manoj Reddy,manoj.reddy30@example.com,9933238099,Bangalore,Karnataka,follow up later,varah_swamy,03/07/2026,Site visit scheduled
+Manoj Malhotra,manoj.malhotra31@example.com,9681961113,Hyderabad,Telangana,ringing,google,04/08/2026,
+Manoj Malhotra,manoj.malhotra32@example.com,,Mumbai,Maharashtra,ringing,google,05/09/2026,Requested video walkthrough
+Arjun Iyer,arjun.iyer33@example.com,,Pune,Maharashtra,ringing,google,06/10/2026,Requested video walkthrough
+Kavya Joshi,kavya.joshi34@example.com,9675066887,Hyderabad,Telangana,ringing,sarjapur_plots,07/11/2026,No response yet
+Anita Verma,anita.verma35@example.com,9848082344,Bangalore,Karnataka,not interested,,08/12/2026,Budget mismatch
+Anita Joshi,anita.joshi36@example.com,,Pune,Maharashtra,no answer,meridian_tower,09/01/2026,Budget mismatch
+Pooja Malhotra,pooja.malhotra37@example.com,,Kolkata,West Bengal,deal closed,varah_swamy,10/02/2026,Comparing with other projects
+Priya Verma,priya.verma38@example.com,9245633942,Hyderabad,Telangana,no answer,facebook ads,11/03/2026,Budget mismatch
+Suresh Gupta,suresh.gupta39@example.com,9869840962,Kolkata,West Bengal,interested,facebook ads,12/04/2026,Wants brochure emailed
+Divya Patel,divya.patel40@example.com,9772995373,Bangalore,Karnataka,interested,google,13/05/2026,Asked to call back tomorrow
+Nikhil Patel,nikhil.patel41@example.com,9285556132,Pune,Maharashtra,interested,sarjapur_plots,14/06/2026,Site visit scheduled
+Ritu Joshi,ritu.joshi42@example.com,9438540604,Pune,Maharashtra,,,15/07/2026,Site visit scheduled
+Pooja Kapoor,pooja.kapoor43@example.com,9698484258,Delhi,Delhi,no answer,google,16/08/2026,Requested video walkthrough
+Vikram Joshi,,9595774195,Bangalore,Karnataka,not interested,eden_park,17/09/2026,Requested video walkthrough
+Sneha Gupta,sneha.gupta45@example.com,,Bangalore,Karnataka,deal closed,varah_swamy,18/10/2026,Wants brochure emailed
+Priya Kapoor,,,Mumbai,Maharashtra,,,19/11/2026,Comparing with other projects
+Meera Nair,meera.nair47@example.com,,Delhi,Delhi,interested,,20/12/2026,Budget mismatch
+Manoj Chatterjee,manoj.chatterjee48@example.com,9560346521,Kolkata,West Bengal,interested,facebook ads,21/01/2026,Budget mismatch
+Divya Malhotra,divya.malhotra49@example.com,,Delhi,Delhi,deal closed,facebook ads,22/02/2026,Asked to call back tomorrow
+Neha Rao,neha.rao50@example.com,9968574452,Bangalore,Karnataka,,leads_on_demand,23/03/2026,Budget mismatch
+Rohan Gupta,rohan.gupta51@example.com,9627450388,Bangalore,Karnataka,ringing,,24/04/2026,Comparing with other projects
+Meera Patel,meera.patel52@example.com,9825427242,Delhi,Delhi,deal closed,,25/05/2026,Site visit scheduled
+Ritu Reddy,ritu.reddy53@example.com,9198591789,Bangalore,Karnataka,follow up later,eden_park,26/06/2026,Budget mismatch
+Amit Verma,amit.verma54@example.com,9703627217,Mumbai,Maharashtra,,facebook ads,27/07/2026,Requested video walkthrough
+Pooja Verma,,9329842281,Delhi,Delhi,not interested,facebook ads,28/08/2026,
+Arjun Menon,arjun.menon56@example.com,9269425291,Mumbai,Maharashtra,busy right now,sarjapur_plots,01/09/2026,Requested video walkthrough
+Vikram Sharma,vikram.sharma57@example.com,9704248221,Hyderabad,Telangana,busy right now,,02/10/2026,No response yet
+Amit Menon,amit.menon58@example.com,9119719637,Kolkata,West Bengal,not interested,google,03/11/2026,
+Neha Chatterjee,neha.chatterjee59@example.com,9647056182,Chennai,Tamil Nadu,ringing,sarjapur_plots,04/12/2026,Wants brochure emailed
+Vikram Sharma,vikram.sharma60@example.com,9705678104,Bangalore,Karnataka,follow up later,sarjapur_plots,05/01/2026,No response yet
+Nikhil Iyer,nikhil.iyer61@example.com,9928191420,Ahmedabad,Gujarat,no answer,,06/02/2026,No response yet
+Amit Iyer,amit.iyer62@example.com,,Ahmedabad,Gujarat,no answer,,07/03/2026,Budget mismatch
+Meera Kapoor,meera.kapoor63@example.com,,Chennai,Tamil Nadu,ringing,varah_swamy,08/04/2026,Asked to call back tomorrow
+Neha Gupta,neha.gupta64@example.com,9573810717,Chennai,Tamil Nadu,ringing,google,09/05/2026,Budget mismatch
+Ritu Verma,ritu.verma65@example.com,,Mumbai,Maharashtra,busy right now,,10/06/2026,
+Amit Menon,amit.menon66@example.com,,Ahmedabad,Gujarat,interested,facebook ads,11/07/2026,Site visit scheduled
+Suresh Rao,suresh.rao67@example.com,,Kolkata,West Bengal,deal closed,meridian_tower,12/08/2026,Site visit scheduled
+Priya Rao,priya.rao68@example.com,9140842689,Bangalore,Karnataka,deal closed,,13/09/2026,Asked to call back tomorrow
+Rahul Singh,,,Pune,Maharashtra,busy right now,leads_on_demand,14/10/2026,Site visit scheduled
+Kavya Verma,kavya.verma70@example.com,9680342224,Kolkata,West Bengal,no answer,,15/11/2026,Wants brochure emailed
+Neha Patel,neha.patel71@example.com,,Mumbai,Maharashtra,,varah_swamy,16/12/2026,No response yet
+Arjun Verma,arjun.verma72@example.com,,Ahmedabad,Gujarat,interested,,17/01/2026,Asked to call back tomorrow
+Vikram Singh,vikram.singh73@example.com,9341562010,Ahmedabad,Gujarat,deal closed,sarjapur_plots,18/02/2026,Requested video walkthrough
+Kavya Iyer,,9174792164,Chennai,Tamil Nadu,not interested,facebook ads,19/03/2026,Site visit scheduled
+Amit Iyer,,9732805717,Hyderabad,Telangana,deal closed,facebook ads,20/04/2026,Wants brochure emailed
+Swati Gupta,swati.gupta76@example.com,,Mumbai,Maharashtra,follow up later,facebook ads,21/05/2026,
+Priya Rao,,9516492554,Hyderabad,Telangana,interested,facebook ads,22/06/2026,Asked to call back tomorrow
+Karan Patel,karan.patel78@example.com,9109847821,Delhi,Delhi,interested,sarjapur_plots,23/07/2026,
+Neha Chatterjee,neha.chatterjee79@example.com,9811333776,Mumbai,Maharashtra,ringing,leads_on_demand,24/08/2026,Asked to call back tomorrow
+Vikram Joshi,vikram.joshi80@example.com,9669877464,Ahmedabad,Gujarat,ringing,meridian_tower,25/09/2026,Wants brochure emailed
+Nikhil Nair,nikhil.nair81@example.com,,Ahmedabad,Gujarat,not interested,leads_on_demand,26/10/2026,No response yet
+Priya Reddy,,9368356097,Bangalore,Karnataka,deal closed,,27/11/2026,Site visit scheduled
+Anita Joshi,anita.joshi83@example.com,,Bangalore,Karnataka,follow up later,google,28/12/2026,Wants brochure emailed
+Nikhil Gupta,nikhil.gupta84@example.com,,Bangalore,Karnataka,interested,google,01/01/2026,Requested video walkthrough
+Swati Reddy,swati.reddy85@example.com,9318154929,Hyderabad,Telangana,no answer,leads_on_demand,02/02/2026,
+Rahul Joshi,rahul.joshi86@example.com,9733137443,Hyderabad,Telangana,deal closed,google,03/03/2026,Budget mismatch
+Kavya Verma,kavya.verma87@example.com,,Bangalore,Karnataka,deal closed,sarjapur_plots,04/04/2026,No response yet
+Manoj Reddy,manoj.reddy88@example.com,9909618400,Mumbai,Maharashtra,deal closed,eden_park,05/05/2026,
+Anita Reddy,anita.reddy89@example.com,,Hyderabad,Telangana,no answer,sarjapur_plots,06/06/2026,
+Aditya Bhatt,aditya.bhatt90@example.com,9443438928,Ahmedabad,Gujarat,,leads_on_demand,07/07/2026,Site visit scheduled
+Suresh Verma,suresh.verma91@example.com,9669636895,Pune,Maharashtra,follow up later,google,08/08/2026,Wants brochure emailed
+Rohan Bhatt,,,Kolkata,West Bengal,deal closed,eden_park,09/09/2026,Asked to call back tomorrow
+Anita Patel,anita.patel93@example.com,9771256090,Mumbai,Maharashtra,follow up later,eden_park,10/10/2026,Budget mismatch
+Rahul Sharma,rahul.sharma94@example.com,,Delhi,Delhi,follow up later,sarjapur_plots,11/11/2026,Comparing with other projects
+Arjun Iyer,arjun.iyer95@example.com,,Ahmedabad,Gujarat,deal closed,meridian_tower,12/12/2026,Budget mismatch
+Neha Kapoor,neha.kapoor96@example.com,,Mumbai,Maharashtra,deal closed,leads_on_demand,13/01/2026,
+Vikram Reddy,vikram.reddy97@example.com,9639529398,Ahmedabad,Gujarat,deal closed,google,14/02/2026,Budget mismatch
+Manoj Patel,manoj.patel98@example.com,9147476360,Mumbai,Maharashtra,ringing,sarjapur_plots,15/03/2026,Site visit scheduled
+Vikram Verma,vikram.verma99@example.com,9264611053,Pune,Maharashtra,not interested,sarjapur_plots,16/04/2026,Budget mismatch
+Anita Reddy,anita.reddy100@example.com,,Delhi,Delhi,follow up later,google,17/05/2026,Site visit scheduled
+Nikhil Verma,nikhil.verma101@example.com,9310706566,Delhi,Delhi,busy right now,,18/06/2026,Asked to call back tomorrow
+Pooja Joshi,pooja.joshi102@example.com,,Mumbai,Maharashtra,ringing,eden_park,19/07/2026,Requested video walkthrough
+Arjun Nair,arjun.nair103@example.com,9452811950,Pune,Maharashtra,ringing,leads_on_demand,20/08/2026,Site visit scheduled
+Arjun Iyer,,9968558348,Ahmedabad,Gujarat,,varah_swamy,21/09/2026,Comparing with other projects
+Neha Kapoor,neha.kapoor105@example.com,9899277793,Mumbai,Maharashtra,follow up later,sarjapur_plots,22/10/2026,Asked to call back tomorrow
+Vikram Singh,,9348687887,Hyderabad,Telangana,ringing,sarjapur_plots,23/11/2026,No response yet
+Anita Kapoor,anita.kapoor107@example.com,9545753470,Delhi,Delhi,interested,,24/12/2026,Asked to call back tomorrow
+Pooja Malhotra,pooja.malhotra108@example.com,9644057947,Chennai,Tamil Nadu,no answer,varah_swamy,25/01/2026,Site visit scheduled
+Karan Patel,karan.patel109@example.com,,Delhi,Delhi,,facebook ads,26/02/2026,
+Vikram Nair,vikram.nair110@example.com,9534319043,Pune,Maharashtra,follow up later,facebook ads,27/03/2026,Requested video walkthrough
+Manoj Chatterjee,manoj.chatterjee111@example.com,9931623728,Kolkata,West Bengal,follow up later,leads_on_demand,28/04/2026,Site visit scheduled
+Karan Joshi,,9437189888,Hyderabad,Telangana,busy right now,eden_park,01/05/2026,
+Nikhil Bhatt,nikhil.bhatt113@example.com,9236403688,Bangalore,Karnataka,no answer,facebook ads,02/06/2026,Wants brochure emailed
+Neha Bhatt,neha.bhatt114@example.com,9942197656,Kolkata,West Bengal,follow up later,sarjapur_plots,03/07/2026,Requested video walkthrough
+Anita Bhatt,,,Hyderabad,Telangana,busy right now,eden_park,04/08/2026,Requested video walkthrough
+Manoj Nair,manoj.nair116@example.com,,Mumbai,Maharashtra,not interested,facebook ads,05/09/2026,No response yet
+Vikram Verma,vikram.verma117@example.com,9760949624,Chennai,Tamil Nadu,,meridian_tower,06/10/2026,Budget mismatch
+Vikram Nair,vikram.nair118@example.com,,Kolkata,West Bengal,,eden_park,07/11/2026,Requested video walkthrough
+Kavya Reddy,,9649967623,Ahmedabad,Gujarat,ringing,varah_swamy,08/12/2026,Wants brochure emailed
+Priya Sharma,priya.sharma120@example.com,9857337779,Chennai,Tamil Nadu,follow up later,sarjapur_plots,09/01/2026,Wants brochure emailed
+Neha Menon,neha.menon121@example.com,9403658132,Delhi,Delhi,no answer,leads_on_demand,10/02/2026,
+Aditya Patel,aditya.patel122@example.com,9647611989,Bangalore,Karnataka,,meridian_tower,11/03/2026,Requested video walkthrough
+Arjun Patel,arjun.patel123@example.com,,Kolkata,West Bengal,interested,sarjapur_plots,12/04/2026,Comparing with other projects
+Vikram Malhotra,vikram.malhotra124@example.com,,Delhi,Delhi,no answer,sarjapur_plots,13/05/2026,Requested video walkthrough
+Anita Bhatt,anita.bhatt125@example.com,9350445683,Delhi,Delhi,ringing,varah_swamy,14/06/2026,Comparing with other projects
+Amit Bhatt,,9647163815,Ahmedabad,Gujarat,follow up later,sarjapur_plots,15/07/2026,
+Kavya Chatterjee,kavya.chatterjee127@example.com,9230421832,Delhi,Delhi,ringing,google,16/08/2026,No response yet
+Karan Verma,karan.verma128@example.com,9901498216,Mumbai,Maharashtra,busy right now,leads_on_demand,17/09/2026,
+Amit Joshi,amit.joshi129@example.com,9204113367,Kolkata,West Bengal,interested,leads_on_demand,18/10/2026,Wants brochure emailed
+Neha Singh,neha.singh130@example.com,9339090335,Delhi,Delhi,interested,varah_swamy,19/11/2026,
+Kavya Gupta,kavya.gupta131@example.com,9521833739,Hyderabad,Telangana,ringing,,20/12/2026,Budget mismatch
+Swati Bhatt,swati.bhatt132@example.com,9539993564,Delhi,Delhi,busy right now,,21/01/2026,No response yet
+Rahul Singh,rahul.singh133@example.com,9710738564,Mumbai,Maharashtra,not interested,sarjapur_plots,22/02/2026,Site visit scheduled
+Ritu Iyer,ritu.iyer134@example.com,9586132092,Ahmedabad,Gujarat,follow up later,google,23/03/2026,Requested video walkthrough
+Nikhil Sharma,,9221876270,Ahmedabad,Gujarat,not interested,,24/04/2026,Comparing with other projects
+Priya Nair,priya.nair136@example.com,9542296224,Delhi,Delhi,no answer,,25/05/2026,Comparing with other projects
+Vikram Sharma,vikram.sharma137@example.com,9964939070,Mumbai,Maharashtra,follow up later,leads_on_demand,26/06/2026,No response yet
+Ritu Menon,,,Hyderabad,Telangana,not interested,,27/07/2026,
+Suresh Kapoor,suresh.kapoor139@example.com,,Bangalore,Karnataka,not interested,facebook ads,28/08/2026,
+Manoj Kapoor,manoj.kapoor140@example.com,9671448824,Bangalore,Karnataka,no answer,leads_on_demand,01/09/2026,Site visit scheduled
+Karan Rao,karan.rao141@example.com,9483836485,Ahmedabad,Gujarat,deal closed,meridian_tower,02/10/2026,No response yet
+Pooja Singh,pooja.singh142@example.com,9916156962,Ahmedabad,Gujarat,not interested,,03/11/2026,Requested video walkthrough
+Vikram Kapoor,vikram.kapoor143@example.com,9651766795,Chennai,Tamil Nadu,no answer,meridian_tower,04/12/2026,Comparing with other projects
+Rahul Bhatt,rahul.bhatt144@example.com,9226148649,Chennai,Tamil Nadu,not interested,varah_swamy,05/01/2026,No response yet
+Rohan Rao,rohan.rao145@example.com,,Bangalore,Karnataka,busy right now,google,06/02/2026,
+Vikram Patel,vikram.patel146@example.com,9156051237,Chennai,Tamil Nadu,follow up later,meridian_tower,07/03/2026,Site visit scheduled
+Suresh Sharma,suresh.sharma147@example.com,,Delhi,Delhi,ringing,,08/04/2026,Requested video walkthrough
+Anita Iyer,,9614379770,Pune,Maharashtra,deal closed,,09/05/2026,Budget mismatch
+Anita Chatterjee,anita.chatterjee149@example.com,9280847523,Mumbai,Maharashtra,interested,varah_swamy,10/06/2026,
+Nikhil Menon,nikhil.menon150@example.com,,Pune,Maharashtra,not interested,,11/07/2026,Asked to call back tomorrow
+Manoj Patel,manoj.patel151@example.com,,Bangalore,Karnataka,busy right now,leads_on_demand,12/08/2026,Budget mismatch
+Meera Gupta,meera.gupta152@example.com,,Pune,Maharashtra,busy right now,sarjapur_plots,13/09/2026,Wants brochure emailed
+Rahul Gupta,rahul.gupta153@example.com,9618054206,Delhi,Delhi,interested,,14/10/2026,Comparing with other projects
+Sneha Gupta,,9227202055,Delhi,Delhi,busy right now,,15/11/2026,Wants brochure emailed
+Kavya Gupta,,9599176330,Mumbai,Maharashtra,deal closed,sarjapur_plots,16/12/2026,Asked to call back tomorrow
+Anita Iyer,anita.iyer156@example.com,9197828823,Bangalore,Karnataka,no answer,,17/01/2026,Site visit scheduled
+Vikram Singh,vikram.singh157@example.com,,Bangalore,Karnataka,no answer,sarjapur_plots,18/02/2026,Site visit scheduled
+Pooja Gupta,pooja.gupta158@example.com,9906813270,Ahmedabad,Gujarat,,,19/03/2026,Wants brochure emailed
+Meera Malhotra,meera.malhotra159@example.com,9230383614,Delhi,Delhi,ringing,google,20/04/2026,Budget mismatch
+Karan Gupta,karan.gupta160@example.com,9833823073,Chennai,Tamil Nadu,follow up later,facebook ads,21/05/2026,No response yet
+Rohan Rao,,,Ahmedabad,Gujarat,follow up later,leads_on_demand,22/06/2026,
+Rahul Sharma,rahul.sharma162@example.com,9183623670,Pune,Maharashtra,ringing,varah_swamy,23/07/2026,Wants brochure emailed
+Pooja Malhotra,pooja.malhotra163@example.com,9184526526,Kolkata,West Bengal,,,24/08/2026,No response yet
+Pooja Chatterjee,pooja.chatterjee164@example.com,,Bangalore,Karnataka,follow up later,varah_swamy,25/09/2026,Comparing with other projects
+Arjun Gupta,arjun.gupta165@example.com,9964381568,Pune,Maharashtra,no answer,eden_park,26/10/2026,Comparing with other projects
+Nikhil Gupta,nikhil.gupta166@example.com,,Hyderabad,Telangana,busy right now,varah_swamy,27/11/2026,Wants brochure emailed
+Kavya Nair,kavya.nair167@example.com,,Hyderabad,Telangana,no answer,,28/12/2026,Wants brochure emailed
+Vikram Patel,vikram.patel168@example.com,,Kolkata,West Bengal,busy right now,eden_park,01/01/2026,Site visit scheduled
+Nikhil Patel,,9709010105,Mumbai,Maharashtra,not interested,leads_on_demand,02/02/2026,No response yet
+Anita Bhatt,,9120281136,Hyderabad,Telangana,no answer,sarjapur_plots,03/03/2026,Comparing with other projects
+Manoj Patel,manoj.patel171@example.com,,Chennai,Tamil Nadu,,,04/04/2026,No response yet
+Neha Singh,neha.singh172@example.com,9818230799,Ahmedabad,Gujarat,interested,facebook ads,05/05/2026,No response yet
+Meera Menon,meera.menon173@example.com,9422990179,Hyderabad,Telangana,deal closed,google,06/06/2026,Comparing with other projects
+Vikram Kapoor,vikram.kapoor174@example.com,9680479228,Chennai,Tamil Nadu,busy right now,varah_swamy,07/07/2026,Comparing with other projects
+Sneha Joshi,sneha.joshi175@example.com,9176824362,Hyderabad,Telangana,ringing,facebook ads,08/08/2026,Site visit scheduled
+Kavya Sharma,kavya.sharma176@example.com,9687076298,Kolkata,West Bengal,deal closed,varah_swamy,09/09/2026,Wants brochure emailed
+Rahul Joshi,,9637514291,Bangalore,Karnataka,busy right now,facebook ads,10/10/2026,Comparing with other projects
+Rohan Rao,rohan.rao178@example.com,9124172873,Hyderabad,Telangana,deal closed,,11/11/2026,
+Rohan Chatterjee,rohan.chatterjee179@example.com,9405951954,Delhi,Delhi,follow up later,sarjapur_plots,12/12/2026,Comparing with other projects
+Rohan Gupta,rohan.gupta180@example.com,9994366181,Kolkata,West Bengal,deal closed,facebook ads,13/01/2026,Asked to call back tomorrow
+Rahul Singh,rahul.singh181@example.com,9918541144,Hyderabad,Telangana,interested,varah_swamy,14/02/2026,
+Arjun Verma,,9368085435,Chennai,Tamil Nadu,no answer,facebook ads,15/03/2026,Comparing with other projects
+Amit Gupta,amit.gupta183@example.com,9184757057,Hyderabad,Telangana,interested,google,16/04/2026,Asked to call back tomorrow
+Manoj Reddy,,,Kolkata,West Bengal,busy right now,eden_park,17/05/2026,No response yet
+Neha Menon,,9114125875,Delhi,Delhi,follow up later,google,18/06/2026,Budget mismatch
+Meera Reddy,meera.reddy186@example.com,9345399346,Delhi,Delhi,ringing,facebook ads,19/07/2026,Site visit scheduled
+Suresh Iyer,suresh.iyer187@example.com,9633223660,Mumbai,Maharashtra,,,20/08/2026,Comparing with other projects
+Rahul Reddy,rahul.reddy188@example.com,,Ahmedabad,Gujarat,ringing,,21/09/2026,No response yet
+Suresh Nair,suresh.nair189@example.com,9667834908,Delhi,Delhi,interested,varah_swamy,22/10/2026,Asked to call back tomorrow
+Rohan Menon,,9349366031,Kolkata,West Bengal,deal closed,eden_park,23/11/2026,Asked to call back tomorrow
+Divya Sharma,divya.sharma191@example.com,9294599069,Pune,Maharashtra,no answer,,24/12/2026,Budget mismatch
+Rahul Verma,rahul.verma192@example.com,,Mumbai,Maharashtra,ringing,,25/01/2026,Budget mismatch
+Swati Patel,swati.patel193@example.com,9380043831,Pune,Maharashtra,no answer,varah_swamy,26/02/2026,Comparing with other projects
+Neha Rao,,9367052407,Delhi,Delhi,busy right now,google,27/03/2026,Budget mismatch
+Karan Gupta,karan.gupta195@example.com,,Mumbai,Maharashtra,ringing,google,28/04/2026,Budget mismatch
+Sneha Kapoor,,9233542755,Kolkata,West Bengal,ringing,eden_park,01/05/2026,Asked to call back tomorrow
+Priya Gupta,priya.gupta197@example.com,9585338486,Mumbai,Maharashtra,no answer,meridian_tower,02/06/2026,No response yet
+Nikhil Joshi,nikhil.joshi198@example.com,9476870361,Mumbai,Maharashtra,interested,facebook ads,03/07/2026,Site visit scheduled
+Pooja Iyer,pooja.iyer199@example.com,9740497870,Kolkata,West Bengal,,google,04/08/2026,Asked to call back tomorrow
+Manoj Verma,,9959348861,Delhi,Delhi,busy right now,varah_swamy,05/09/2026,Site visit scheduled
+Vikram Bhatt,vikram.bhatt201@example.com,9977373298,Kolkata,West Bengal,no answer,google,06/10/2026,Budget mismatch
+Sneha Reddy,sneha.reddy202@example.com,9767597707,Pune,Maharashtra,no answer,google,07/11/2026,No response yet
+Pooja Malhotra,,9305302167,Hyderabad,Telangana,ringing,leads_on_demand,08/12/2026,Asked to call back tomorrow
+Vikram Joshi,,9544086667,Chennai,Tamil Nadu,interested,,09/01/2026,No response yet
+Karan Nair,karan.nair205@example.com,9944419157,Mumbai,Maharashtra,no answer,google,10/02/2026,Asked to call back tomorrow
+Kavya Joshi,kavya.joshi206@example.com,9780479636,Chennai,Tamil Nadu,interested,varah_swamy,11/03/2026,Budget mismatch
+Neha Singh,,,Kolkata,West Bengal,,facebook ads,12/04/2026,Wants brochure emailed
+Pooja Singh,,9334480989,Pune,Maharashtra,deal closed,,13/05/2026,No response yet
+Neha Malhotra,neha.malhotra209@example.com,9725791236,Bangalore,Karnataka,busy right now,,14/06/2026,
+Priya Rao,,9272330387,Delhi,Delhi,no answer,leads_on_demand,15/07/2026,Budget mismatch
+Meera Singh,meera.singh211@example.com,9297577130,Kolkata,West Bengal,deal closed,varah_swamy,16/08/2026,Requested video walkthrough
+Meera Patel,meera.patel212@example.com,9819863157,Bangalore,Karnataka,no answer,varah_swamy,17/09/2026,Requested video walkthrough
+Rohan Rao,rohan.rao213@example.com,9244614396,Delhi,Delhi,,,18/10/2026,Budget mismatch
+Nikhil Sharma,nikhil.sharma214@example.com,9115620647,Chennai,Tamil Nadu,not interested,leads_on_demand,19/11/2026,
+Pooja Menon,pooja.menon215@example.com,,Bangalore,Karnataka,ringing,leads_on_demand,20/12/2026,Wants brochure emailed
+Arjun Joshi,arjun.joshi216@example.com,9961950493,Delhi,Delhi,interested,facebook ads,21/01/2026,Budget mismatch
+Ritu Joshi,ritu.joshi217@example.com,9851496974,Hyderabad,Telangana,not interested,facebook ads,22/02/2026,Asked to call back tomorrow
+Suresh Menon,suresh.menon218@example.com,,Hyderabad,Telangana,ringing,,23/03/2026,Site visit scheduled
+Amit Joshi,amit.joshi219@example.com,9356571454,Mumbai,Maharashtra,ringing,,24/04/2026,Site visit scheduled
+Priya Chatterjee,priya.chatterjee220@example.com,,Bangalore,Karnataka,deal closed,leads_on_demand,25/05/2026,Comparing with other projects
+Priya Patel,priya.patel221@example.com,,Delhi,Delhi,,meridian_tower,26/06/2026,Budget mismatch
+Suresh Kapoor,,9354841390,Ahmedabad,Gujarat,not interested,,27/07/2026,Asked to call back tomorrow
+Suresh Nair,suresh.nair223@example.com,9328885785,Kolkata,West Bengal,,sarjapur_plots,28/08/2026,
+Anita Kapoor,anita.kapoor224@example.com,9378875182,Chennai,Tamil Nadu,,google,01/09/2026,Budget mismatch
+Pooja Bhatt,pooja.bhatt225@example.com,9517105298,Bangalore,Karnataka,ringing,eden_park,02/10/2026,Asked to call back tomorrow
+Kavya Sharma,kavya.sharma226@example.com,,Ahmedabad,Gujarat,no answer,google,03/11/2026,Requested video walkthrough
+Karan Menon,karan.menon227@example.com,,Delhi,Delhi,busy right now,google,04/12/2026,Site visit scheduled
+Priya Sharma,priya.sharma228@example.com,9476818007,Chennai,Tamil Nadu,,google,05/01/2026,Wants brochure emailed
+Nikhil Singh,nikhil.singh229@example.com,,Pune,Maharashtra,interested,,06/02/2026,Site visit scheduled
+Kavya Joshi,,,Kolkata,West Bengal,no answer,leads_on_demand,07/03/2026,Wants brochure emailed
+Sneha Gupta,sneha.gupta231@example.com,,Chennai,Tamil Nadu,no answer,google,08/04/2026,Budget mismatch
+Kavya Joshi,kavya.joshi232@example.com,9725346890,Pune,Maharashtra,ringing,,09/05/2026,No response yet
+Priya Iyer,priya.iyer233@example.com,9406644885,Mumbai,Maharashtra,no answer,leads_on_demand,10/06/2026,Site visit scheduled
+Vikram Gupta,vikram.gupta234@example.com,,Pune,Maharashtra,ringing,leads_on_demand,11/07/2026,Comparing with other projects
+Pooja Sharma,pooja.sharma235@example.com,9578118684,Ahmedabad,Gujarat,interested,meridian_tower,12/08/2026,Wants brochure emailed
+Manoj Sharma,,9984690373,Hyderabad,Telangana,deal closed,sarjapur_plots,13/09/2026,
+Vikram Menon,vikram.menon237@example.com,9338000442,Chennai,Tamil Nadu,ringing,,14/10/2026,
+Sneha Gupta,sneha.gupta238@example.com,,Ahmedabad,Gujarat,follow up later,leads_on_demand,15/11/2026,
+Nikhil Reddy,nikhil.reddy239@example.com,9728691709,Pune,Maharashtra,,meridian_tower,16/12/2026,Requested video walkthrough
+Manoj Menon,manoj.menon240@example.com,,Kolkata,West Bengal,busy right now,facebook ads,17/01/2026,Asked to call back tomorrow
+Neha Joshi,,9541266573,Chennai,Tamil Nadu,no answer,sarjapur_plots,18/02/2026,
+Rahul Rao,rahul.rao242@example.com,9163790601,Chennai,Tamil Nadu,follow up later,sarjapur_plots,19/03/2026,Wants brochure emailed
+Vikram Joshi,vikram.joshi243@example.com,9267548907,Pune,Maharashtra,deal closed,,20/04/2026,Asked to call back tomorrow
+Swati Singh,swati.singh244@example.com,9984117400,Mumbai,Maharashtra,no answer,facebook ads,21/05/2026,Wants brochure emailed
+Suresh Reddy,suresh.reddy245@example.com,9318386661,Bangalore,Karnataka,deal closed,meridian_tower,22/06/2026,No response yet
+Rohan Reddy,,9291385635,Hyderabad,Telangana,interested,eden_park,23/07/2026,Site visit scheduled
+Meera Bhatt,,9410034572,Mumbai,Maharashtra,ringing,eden_park,24/08/2026,Wants brochure emailed
+Divya Verma,divya.verma248@example.com,,Delhi,Delhi,ringing,sarjapur_plots,25/09/2026,No response yet
+Amit Gupta,amit.gupta249@example.com,9951952610,Hyderabad,Telangana,deal closed,varah_swamy,26/10/2026,Wants brochure emailed
+Aditya Gupta,aditya.gupta250@example.com,9197889131,Bangalore,Karnataka,busy right now,google,27/11/2026,Requested video walkthrough
+Swati Reddy,swati.reddy251@example.com,9299288646,Delhi,Delhi,ringing,facebook ads,28/12/2026,No response yet
+Rahul Iyer,rahul.iyer252@example.com,9412769154,Bangalore,Karnataka,busy right now,facebook ads,01/01/2026,Comparing with other projects
+Neha Menon,,,Mumbai,Maharashtra,,,02/02/2026,
+Manoj Kapoor,,9478058838,Chennai,Tamil Nadu,,meridian_tower,03/03/2026,Asked to call back tomorrow
+Karan Kapoor,,9579929285,Mumbai,Maharashtra,deal closed,leads_on_demand,04/04/2026,Budget mismatch
+Manoj Menon,manoj.menon256@example.com,9463760923,Pune,Maharashtra,interested,leads_on_demand,05/05/2026,Budget mismatch
+Vikram Sharma,vikram.sharma257@example.com,9849182606,Pune,Maharashtra,,leads_on_demand,06/06/2026,Budget mismatch
+Manoj Bhatt,manoj.bhatt258@example.com,9662020032,Bangalore,Karnataka,busy right now,eden_park,07/07/2026,Wants brochure emailed
+Karan Singh,karan.singh259@example.com,9880785379,Pune,Maharashtra,not interested,,08/08/2026,Wants brochure emailed
+Amit Singh,amit.singh260@example.com,9972991413,Ahmedabad,Gujarat,deal closed,meridian_tower,09/09/2026,Wants brochure emailed
+Aditya Nair,aditya.nair261@example.com,9169807207,Hyderabad,Telangana,follow up later,facebook ads,10/10/2026,
+Aditya Nair,aditya.nair262@example.com,9880302811,Hyderabad,Telangana,follow up later,,11/11/2026,Wants brochure emailed
+Manoj Singh,manoj.singh263@example.com,9495611077,Ahmedabad,Gujarat,,leads_on_demand,12/12/2026,Site visit scheduled
+Sneha Iyer,,9749297866,Mumbai,Maharashtra,,varah_swamy,13/01/2026,Wants brochure emailed
+Ritu Rao,ritu.rao265@example.com,9164608575,Hyderabad,Telangana,not interested,,14/02/2026,
+Meera Singh,meera.singh266@example.com,9131849944,Delhi,Delhi,deal closed,facebook ads,15/03/2026,Requested video walkthrough
+Manoj Malhotra,manoj.malhotra267@example.com,9370086124,Delhi,Delhi,no answer,varah_swamy,16/04/2026,Budget mismatch
+Pooja Patel,pooja.patel268@example.com,,Pune,Maharashtra,,facebook ads,17/05/2026,No response yet
+Anita Bhatt,anita.bhatt269@example.com,9405923821,Mumbai,Maharashtra,deal closed,leads_on_demand,18/06/2026,Budget mismatch
+Suresh Reddy,suresh.reddy270@example.com,,Mumbai,Maharashtra,busy right now,sarjapur_plots,19/07/2026,Comparing with other projects
+Arjun Rao,arjun.rao271@example.com,,Chennai,Tamil Nadu,,facebook ads,20/08/2026,Site visit scheduled
+Rahul Joshi,rahul.joshi272@example.com,,Ahmedabad,Gujarat,busy right now,,21/09/2026,No response yet
+Neha Reddy,neha.reddy273@example.com,9143986286,Pune,Maharashtra,,leads_on_demand,22/10/2026,Site visit scheduled
+Divya Nair,divya.nair274@example.com,9192051869,Mumbai,Maharashtra,not interested,varah_swamy,23/11/2026,Budget mismatch
+Priya Malhotra,priya.malhotra275@example.com,,Pune,Maharashtra,ringing,sarjapur_plots,24/12/2026,No response yet
+Manoj Gupta,,,Delhi,Delhi,interested,meridian_tower,25/01/2026,Budget mismatch
+Neha Nair,neha.nair277@example.com,9677304129,Kolkata,West Bengal,follow up later,meridian_tower,26/02/2026,Asked to call back tomorrow
+Suresh Menon,,9569908343,Pune,Maharashtra,no answer,sarjapur_plots,27/03/2026,Budget mismatch
+Meera Kapoor,,9950140564,Ahmedabad,Gujarat,busy right now,sarjapur_plots,28/04/2026,
+Rohan Malhotra,rohan.malhotra280@example.com,,Delhi,Delhi,no answer,,01/05/2026,Site visit scheduled
+Ritu Rao,ritu.rao281@example.com,9934419705,Pune,Maharashtra,not interested,sarjapur_plots,02/06/2026,Site visit scheduled
+Anita Gupta,anita.gupta282@example.com,9340680459,Delhi,Delhi,ringing,meridian_tower,03/07/2026,Requested video walkthrough
+Arjun Patel,arjun.patel283@example.com,9223790557,Kolkata,West Bengal,busy right now,varah_swamy,04/08/2026,Budget mismatch
+Kavya Nair,kavya.nair284@example.com,9451081647,Ahmedabad,Gujarat,ringing,facebook ads,05/09/2026,Wants brochure emailed
+Arjun Nair,arjun.nair285@example.com,9174476093,Mumbai,Maharashtra,no answer,sarjapur_plots,06/10/2026,Wants brochure emailed
+Manoj Kapoor,manoj.kapoor286@example.com,9390749487,Chennai,Tamil Nadu,interested,sarjapur_plots,07/11/2026,Site visit scheduled
+Priya Patel,priya.patel287@example.com,9727435678,Delhi,Delhi,,,08/12/2026,Asked to call back tomorrow
+Amit Menon,amit.menon288@example.com,9635159637,Delhi,Delhi,ringing,facebook ads,09/01/2026,Site visit scheduled
+Anita Reddy,anita.reddy289@example.com,9787623850,Chennai,Tamil Nadu,follow up later,leads_on_demand,10/02/2026,No response yet
+Kavya Bhatt,kavya.bhatt290@example.com,9683097448,Kolkata,West Bengal,follow up later,facebook ads,11/03/2026,Requested video walkthrough
+Meera Gupta,meera.gupta291@example.com,9275071857,Ahmedabad,Gujarat,deal closed,varah_swamy,12/04/2026,Requested video walkthrough
+Divya Reddy,,9781984854,Delhi,Delhi,interested,varah_swamy,13/05/2026,
+Sneha Reddy,sneha.reddy293@example.com,9444169641,Pune,Maharashtra,busy right now,leads_on_demand,14/06/2026,Comparing with other projects
+Arjun Nair,arjun.nair294@example.com,,Delhi,Delhi,no answer,,15/07/2026,No response yet
+Vikram Sharma,vikram.sharma295@example.com,9986005133,Mumbai,Maharashtra,,google,16/08/2026,Wants brochure emailed
+Suresh Joshi,suresh.joshi296@example.com,9813234524,Chennai,Tamil Nadu,deal closed,sarjapur_plots,17/09/2026,Asked to call back tomorrow
+Rohan Iyer,rohan.iyer297@example.com,,Hyderabad,Telangana,follow up later,varah_swamy,18/10/2026,Asked to call back tomorrow
+Sneha Chatterjee,sneha.chatterjee298@example.com,9846882658,Kolkata,West Bengal,no answer,sarjapur_plots,19/11/2026,No response yet
+Ritu Kapoor,,,Chennai,Tamil Nadu,not interested,varah_swamy,20/12/2026,Site visit scheduled
+Suresh Gupta,suresh.gupta300@example.com,9459719305,Pune,Maharashtra,,varah_swamy,21/01/2026,Requested video walkthrough
+Meera Iyer,meera.iyer301@example.com,9180508471,Bangalore,Karnataka,interested,sarjapur_plots,22/02/2026,No response yet
+Vikram Rao,vikram.rao302@example.com,9501923789,Chennai,Tamil Nadu,deal closed,google,23/03/2026,
+Amit Rao,,9450528342,Mumbai,Maharashtra,ringing,,24/04/2026,Requested video walkthrough
+Karan Kapoor,karan.kapoor304@example.com,9456174249,Mumbai,Maharashtra,not interested,facebook ads,25/05/2026,Requested video walkthrough
+Arjun Singh,arjun.singh305@example.com,9645307292,Ahmedabad,Gujarat,ringing,meridian_tower,26/06/2026,Budget mismatch
+Meera Menon,,9375614438,Mumbai,Maharashtra,,,27/07/2026,Wants brochure emailed
+Sneha Iyer,sneha.iyer307@example.com,9988963814,Ahmedabad,Gujarat,follow up later,facebook ads,28/08/2026,No response yet
+Arjun Gupta,arjun.gupta308@example.com,,Kolkata,West Bengal,ringing,,01/09/2026,Wants brochure emailed
+Amit Bhatt,amit.bhatt309@example.com,9892527860,Mumbai,Maharashtra,deal closed,meridian_tower,02/10/2026,Wants brochure emailed
+Ritu Reddy,ritu.reddy310@example.com,9822590524,Kolkata,West Bengal,,leads_on_demand,03/11/2026,Requested video walkthrough
+Neha Patel,neha.patel311@example.com,9526815549,Delhi,Delhi,follow up later,,04/12/2026,Requested video walkthrough
+Kavya Rao,kavya.rao312@example.com,,Chennai,Tamil Nadu,ringing,google,05/01/2026,No response yet
+Aditya Singh,aditya.singh313@example.com,,Kolkata,West Bengal,follow up later,,06/02/2026,Budget mismatch
+Nikhil Singh,nikhil.singh314@example.com,,Hyderabad,Telangana,ringing,meridian_tower,07/03/2026,Comparing with other projects
+Rohan Reddy,rohan.reddy315@example.com,,Mumbai,Maharashtra,follow up later,sarjapur_plots,08/04/2026,Requested video walkthrough
+Neha Joshi,,9720284224,Chennai,Tamil Nadu,not interested,google,09/05/2026,Comparing with other projects
+Anita Rao,anita.rao317@example.com,9252120750,Kolkata,West Bengal,ringing,sarjapur_plots,10/06/2026,Requested video walkthrough
+Rohan Reddy,rohan.reddy318@example.com,,Bangalore,Karnataka,follow up later,varah_swamy,11/07/2026,Budget mismatch
+Aditya Nair,aditya.nair319@example.com,9849167026,Kolkata,West Bengal,not interested,eden_park,12/08/2026,Wants brochure emailed
+Rohan Joshi,rohan.joshi320@example.com,9658665355,Delhi,Delhi,not interested,,13/09/2026,Budget mismatch
+Vikram Kapoor,vikram.kapoor321@example.com,,Pune,Maharashtra,deal closed,google,14/10/2026,Requested video walkthrough
+Swati Gupta,,,Mumbai,Maharashtra,,google,15/11/2026,Requested video walkthrough
+Pooja Iyer,pooja.iyer323@example.com,,Hyderabad,Telangana,no answer,facebook ads,16/12/2026,No response yet
+Arjun Patel,arjun.patel324@example.com,,Hyderabad,Telangana,ringing,leads_on_demand,17/01/2026,Budget mismatch
+Pooja Bhatt,pooja.bhatt325@example.com,,Chennai,Tamil Nadu,not interested,facebook ads,18/02/2026,Budget mismatch
+Sneha Patel,sneha.patel326@example.com,,Hyderabad,Telangana,deal closed,varah_swamy,19/03/2026,Comparing with other projects
+Divya Rao,,9391261376,Chennai,Tamil Nadu,busy right now,,20/04/2026,Asked to call back tomorrow
+Aditya Reddy,aditya.reddy328@example.com,9840334772,Kolkata,West Bengal,deal closed,leads_on_demand,21/05/2026,Budget mismatch
+Ritu Singh,ritu.singh329@example.com,,Bangalore,Karnataka,follow up later,eden_park,22/06/2026,Budget mismatch
+Rohan Malhotra,rohan.malhotra330@example.com,9348033735,Ahmedabad,Gujarat,interested,leads_on_demand,23/07/2026,Comparing with other projects
+Suresh Menon,suresh.menon331@example.com,9755234974,Hyderabad,Telangana,deal closed,google,24/08/2026,Budget mismatch
+Ritu Kapoor,ritu.kapoor332@example.com,,Delhi,Delhi,busy right now,,25/09/2026,Requested video walkthrough
+Arjun Chatterjee,arjun.chatterjee333@example.com,,Pune,Maharashtra,,sarjapur_plots,26/10/2026,Site visit scheduled
+Manoj Kapoor,manoj.kapoor334@example.com,,Hyderabad,Telangana,interested,,27/11/2026,Comparing with other projects
+Meera Menon,meera.menon335@example.com,9913491569,Ahmedabad,Gujarat,ringing,google,28/12/2026,
+Pooja Gupta,pooja.gupta336@example.com,9717759439,Chennai,Tamil Nadu,follow up later,meridian_tower,01/01/2026,
+Ritu Malhotra,ritu.malhotra337@example.com,,Pune,Maharashtra,deal closed,,02/02/2026,No response yet
+Kavya Sharma,kavya.sharma338@example.com,9461369387,Ahmedabad,Gujarat,busy right now,,03/03/2026,Requested video walkthrough
+Sneha Kapoor,sneha.kapoor339@example.com,9928227611,Delhi,Delhi,ringing,google,04/04/2026,Wants brochure emailed
+Arjun Sharma,arjun.sharma340@example.com,9626794119,Delhi,Delhi,busy right now,varah_swamy,05/05/2026,Site visit scheduled
+Meera Sharma,meera.sharma341@example.com,,Chennai,Tamil Nadu,no answer,eden_park,06/06/2026,No response yet
+Amit Verma,amit.verma342@example.com,9133695846,Delhi,Delhi,busy right now,varah_swamy,07/07/2026,Budget mismatch
+Aditya Gupta,aditya.gupta343@example.com,9133729844,Kolkata,West Bengal,,google,08/08/2026,Asked to call back tomorrow
+Pooja Verma,pooja.verma344@example.com,9454077957,Chennai,Tamil Nadu,,sarjapur_plots,09/09/2026,Requested video walkthrough
+Amit Verma,,,Mumbai,Maharashtra,interested,,10/10/2026,Asked to call back tomorrow
+Kavya Kapoor,kavya.kapoor346@example.com,9174075448,Delhi,Delhi,interested,sarjapur_plots,11/11/2026,Site visit scheduled
+Pooja Menon,pooja.menon347@example.com,,Hyderabad,Telangana,no answer,leads_on_demand,12/12/2026,Asked to call back tomorrow
+Neha Nair,neha.nair348@example.com,9157322894,Pune,Maharashtra,ringing,eden_park,13/01/2026,
+Aditya Singh,aditya.singh349@example.com,9221633541,Pune,Maharashtra,not interested,varah_swamy,14/02/2026,Wants brochure emailed
+Nikhil Kapoor,nikhil.kapoor350@example.com,9761365223,Chennai,Tamil Nadu,follow up later,varah_swamy,15/03/2026,
+Amit Malhotra,amit.malhotra351@example.com,9115561066,Delhi,Delhi,interested,leads_on_demand,16/04/2026,Comparing with other projects
+Aditya Gupta,aditya.gupta352@example.com,,Ahmedabad,Gujarat,follow up later,varah_swamy,17/05/2026,No response yet
+Ritu Sharma,ritu.sharma353@example.com,9468039133,Mumbai,Maharashtra,interested,leads_on_demand,18/06/2026,Comparing with other projects
+Kavya Joshi,kavya.joshi354@example.com,9193440644,Ahmedabad,Gujarat,no answer,facebook ads,19/07/2026,Requested video walkthrough
+Manoj Sharma,,9315262318,Pune,Maharashtra,,sarjapur_plots,20/08/2026,Budget mismatch
+Manoj Iyer,manoj.iyer356@example.com,9412814537,Mumbai,Maharashtra,ringing,meridian_tower,21/09/2026,Requested video walkthrough
+Meera Joshi,meera.joshi357@example.com,9282831995,Delhi,Delhi,,varah_swamy,22/10/2026,Requested video walkthrough
+Neha Iyer,neha.iyer358@example.com,,Bangalore,Karnataka,not interested,varah_swamy,23/11/2026,Site visit scheduled
+Rahul Malhotra,rahul.malhotra359@example.com,9928700521,Chennai,Tamil Nadu,not interested,google,24/12/2026,Wants brochure emailed
+Priya Gupta,priya.gupta360@example.com,9318311969,Delhi,Delhi,ringing,leads_on_demand,25/01/2026,Site visit scheduled
+Meera Bhatt,meera.bhatt361@example.com,9893544425,Chennai,Tamil Nadu,busy right now,,26/02/2026,Comparing with other projects
+Kavya Patel,kavya.patel362@example.com,,Delhi,Delhi,not interested,eden_park,27/03/2026,Budget mismatch
+Divya Iyer,divya.iyer363@example.com,9144151846,Ahmedabad,Gujarat,interested,facebook ads,28/04/2026,No response yet
+Manoj Nair,manoj.nair364@example.com,9605550492,Bangalore,Karnataka,no answer,varah_swamy,01/05/2026,Asked to call back tomorrow
+Arjun Malhotra,arjun.malhotra365@example.com,9680827542,Mumbai,Maharashtra,interested,eden_park,02/06/2026,Requested video walkthrough
+Ritu Verma,ritu.verma366@example.com,,Pune,Maharashtra,no answer,google,03/07/2026,No response yet
+Nikhil Reddy,nikhil.reddy367@example.com,9865987224,Chennai,Tamil Nadu,no answer,leads_on_demand,04/08/2026,Comparing with other projects
+Arjun Iyer,,,Pune,Maharashtra,no answer,,05/09/2026,Budget mismatch
+Kavya Malhotra,kavya.malhotra369@example.com,9138090134,Mumbai,Maharashtra,deal closed,varah_swamy,06/10/2026,Asked to call back tomorrow
+Rahul Verma,rahul.verma370@example.com,9869952998,Pune,Maharashtra,,facebook ads,07/11/2026,
+Neha Kapoor,,9748763502,Delhi,Delhi,deal closed,,08/12/2026,Wants brochure emailed
+Arjun Nair,arjun.nair372@example.com,9968969396,Delhi,Delhi,follow up later,,09/01/2026,Requested video walkthrough
+Manoj Iyer,,9965682164,Bangalore,Karnataka,ringing,,10/02/2026,Budget mismatch
+Kavya Nair,kavya.nair374@example.com,9855284273,Ahmedabad,Gujarat,not interested,eden_park,11/03/2026,No response yet
+Neha Menon,neha.menon375@example.com,9960873690,Hyderabad,Telangana,ringing,google,12/04/2026,Wants brochure emailed
+Ritu Malhotra,ritu.malhotra376@example.com,9984835550,Bangalore,Karnataka,busy right now,eden_park,13/05/2026,Wants brochure emailed
+Suresh Rao,suresh.rao377@example.com,9820792525,Delhi,Delhi,interested,facebook ads,14/06/2026,Budget mismatch
+Priya Reddy,priya.reddy378@example.com,9811079128,Mumbai,Maharashtra,not interested,,15/07/2026,Wants brochure emailed
+Neha Patel,neha.patel379@example.com,9445397310,Mumbai,Maharashtra,deal closed,eden_park,16/08/2026,Requested video walkthrough
+Rahul Bhatt,rahul.bhatt380@example.com,,Kolkata,West Bengal,not interested,facebook ads,17/09/2026,Requested video walkthrough
+Vikram Verma,vikram.verma381@example.com,9871693279,Delhi,Delhi,not interested,eden_park,18/10/2026,
+Vikram Singh,vikram.singh382@example.com,9654010109,Chennai,Tamil Nadu,follow up later,leads_on_demand,19/11/2026,Wants brochure emailed
+Amit Iyer,amit.iyer383@example.com,9436990146,Pune,Maharashtra,busy right now,facebook ads,20/12/2026,Requested video walkthrough
+Arjun Gupta,arjun.gupta384@example.com,9437596908,Ahmedabad,Gujarat,,eden_park,21/01/2026,Wants brochure emailed
+Vikram Bhatt,vikram.bhatt385@example.com,9619170405,Bangalore,Karnataka,busy right now,meridian_tower,22/02/2026,
+Kavya Joshi,kavya.joshi386@example.com,9588270547,Mumbai,Maharashtra,no answer,,23/03/2026,Requested video walkthrough
+Meera Sharma,,9525223086,Bangalore,Karnataka,deal closed,facebook ads,24/04/2026,Asked to call back tomorrow
+Priya Nair,priya.nair388@example.com,,Pune,Maharashtra,not interested,sarjapur_plots,25/05/2026,Comparing with other projects
+Amit Joshi,amit.joshi389@example.com,,Chennai,Tamil Nadu,no answer,eden_park,26/06/2026,Wants brochure emailed
+Anita Menon,,9164174606,Hyderabad,Telangana,busy right now,facebook ads,27/07/2026,Asked to call back tomorrow
+Rohan Rao,,,Ahmedabad,Gujarat,no answer,sarjapur_plots,28/08/2026,Wants brochure emailed
+Karan Bhatt,karan.bhatt392@example.com,9968425030,Mumbai,Maharashtra,deal closed,,01/09/2026,Asked to call back tomorrow
+Anita Joshi,anita.joshi393@example.com,9755020942,Hyderabad,Telangana,interested,facebook ads,02/10/2026,
+Kavya Kapoor,,9307239010,Delhi,Delhi,not interested,varah_swamy,03/11/2026,
+Ritu Kapoor,ritu.kapoor395@example.com,,Pune,Maharashtra,no answer,facebook ads,04/12/2026,Site visit scheduled
+Swati Gupta,swati.gupta396@example.com,9766812442,Chennai,Tamil Nadu,busy right now,leads_on_demand,05/01/2026,Budget mismatch
+Rahul Menon,,9518002834,Chennai,Tamil Nadu,ringing,facebook ads,06/02/2026,No response yet
+Karan Menon,,9650615142,Delhi,Delhi,ringing,facebook ads,07/03/2026,
+Sneha Kapoor,,9833145622,Hyderabad,Telangana,busy right now,,08/04/2026,Wants brochure emailed
+Meera Patel,meera.patel400@example.com,9240196724,Pune,Maharashtra,no answer,eden_park,09/05/2026,Comparing with other projects
+Anita Nair,anita.nair401@example.com,,Ahmedabad,Gujarat,follow up later,,10/06/2026,Wants brochure emailed
+Rohan Joshi,rohan.joshi402@example.com,9217663731,Mumbai,Maharashtra,no answer,,11/07/2026,No response yet
+Karan Kapoor,karan.kapoor403@example.com,,Mumbai,Maharashtra,no answer,,12/08/2026,Budget mismatch
+Manoj Verma,,9805452496,Mumbai,Maharashtra,interested,sarjapur_plots,13/09/2026,Budget mismatch
+Manoj Singh,,9640942129,Mumbai,Maharashtra,interested,,14/10/2026,Site visit scheduled
+Ritu Joshi,ritu.joshi406@example.com,9725076966,Mumbai,Maharashtra,follow up later,varah_swamy,15/11/2026,Requested video walkthrough
+Divya Joshi,divya.joshi407@example.com,9462332766,Bangalore,Karnataka,follow up later,google,16/12/2026,
+Aditya Menon,aditya.menon408@example.com,9416309060,Ahmedabad,Gujarat,interested,,17/01/2026,No response yet
+Anita Gupta,anita.gupta409@example.com,,Chennai,Tamil Nadu,busy right now,,18/02/2026,No response yet
+Rahul Chatterjee,rahul.chatterjee410@example.com,9915110270,Kolkata,West Bengal,deal closed,facebook ads,19/03/2026,Budget mismatch
+Sneha Gupta,sneha.gupta411@example.com,,Mumbai,Maharashtra,,meridian_tower,20/04/2026,No response yet
+Neha Gupta,neha.gupta412@example.com,9388704456,Hyderabad,Telangana,no answer,,21/05/2026,No response yet
+Aditya Joshi,,9926590412,Ahmedabad,Gujarat,busy right now,facebook ads,22/06/2026,Wants brochure emailed
+Swati Malhotra,,,Mumbai,Maharashtra,no answer,sarjapur_plots,23/07/2026,Site visit scheduled
+Priya Rao,priya.rao415@example.com,,Chennai,Tamil Nadu,no answer,sarjapur_plots,24/08/2026,Budget mismatch
+Manoj Rao,manoj.rao416@example.com,9853913815,Bangalore,Karnataka,interested,varah_swamy,25/09/2026,Comparing with other projects
+Vikram Nair,vikram.nair417@example.com,,Kolkata,West Bengal,ringing,facebook ads,26/10/2026,
+Arjun Iyer,arjun.iyer418@example.com,,Bangalore,Karnataka,no answer,,27/11/2026,Requested video walkthrough
+Aditya Menon,aditya.menon419@example.com,9273289044,Pune,Maharashtra,follow up later,varah_swamy,28/12/2026,Wants brochure emailed
+Sneha Patel,sneha.patel420@example.com,9819851581,Chennai,Tamil Nadu,deal closed,meridian_tower,01/01/2026,Comparing with other projects
+Manoj Verma,manoj.verma421@example.com,9936859328,Pune,Maharashtra,not interested,,02/02/2026,Budget mismatch
+Aditya Rao,aditya.rao422@example.com,,Ahmedabad,Gujarat,ringing,eden_park,03/03/2026,Asked to call back tomorrow
+Divya Bhatt,divya.bhatt423@example.com,9580810744,Chennai,Tamil Nadu,follow up later,,04/04/2026,Asked to call back tomorrow
+Pooja Singh,pooja.singh424@example.com,9320185472,Delhi,Delhi,interested,meridian_tower,05/05/2026,No response yet
+Divya Rao,divya.rao425@example.com,,Hyderabad,Telangana,interested,varah_swamy,06/06/2026,Site visit scheduled
+Meera Nair,meera.nair426@example.com,9205434465,Chennai,Tamil Nadu,,sarjapur_plots,07/07/2026,Asked to call back tomorrow
+Divya Menon,divya.menon427@example.com,9278005163,Mumbai,Maharashtra,busy right now,meridian_tower,08/08/2026,Comparing with other projects
+Arjun Menon,arjun.menon428@example.com,9868558055,Kolkata,West Bengal,no answer,eden_park,09/09/2026,Budget mismatch
+Priya Singh,priya.singh429@example.com,,Mumbai,Maharashtra,interested,sarjapur_plots,10/10/2026,Comparing with other projects
+Swati Singh,swati.singh430@example.com,9903265471,Ahmedabad,Gujarat,deal closed,sarjapur_plots,11/11/2026,Requested video walkthrough
+Rohan Patel,rohan.patel431@example.com,,Pune,Maharashtra,,leads_on_demand,12/12/2026,Wants brochure emailed
+Amit Menon,amit.menon432@example.com,,Kolkata,West Bengal,follow up later,sarjapur_plots,13/01/2026,Comparing with other projects
+Kavya Kapoor,kavya.kapoor433@example.com,9652946217,Pune,Maharashtra,,,14/02/2026,Budget mismatch
+Pooja Malhotra,pooja.malhotra434@example.com,,Bangalore,Karnataka,follow up later,leads_on_demand,15/03/2026,No response yet
+Vikram Malhotra,vikram.malhotra435@example.com,9523694791,Bangalore,Karnataka,busy right now,google,16/04/2026,No response yet
+Sneha Rao,sneha.rao436@example.com,9955966042,Chennai,Tamil Nadu,ringing,meridian_tower,17/05/2026,Site visit scheduled
+Rohan Bhatt,,,Bangalore,Karnataka,interested,varah_swamy,18/06/2026,Site visit scheduled
+Priya Sharma,priya.sharma438@example.com,,Ahmedabad,Gujarat,ringing,varah_swamy,19/07/2026,Comparing with other projects
+Vikram Verma,vikram.verma439@example.com,,Ahmedabad,Gujarat,follow up later,google,20/08/2026,Asked to call back tomorrow
+Suresh Nair,suresh.nair440@example.com,9682853375,Hyderabad,Telangana,no answer,varah_swamy,21/09/2026,Requested video walkthrough
+Ritu Singh,ritu.singh441@example.com,9842913178,Delhi,Delhi,busy right now,sarjapur_plots,22/10/2026,Comparing with other projects
+Vikram Menon,vikram.menon442@example.com,9495698418,Chennai,Tamil Nadu,deal closed,,23/11/2026,Requested video walkthrough
+Neha Verma,neha.verma443@example.com,9178237226,Hyderabad,Telangana,no answer,varah_swamy,24/12/2026,Site visit scheduled
+Aditya Malhotra,aditya.malhotra444@example.com,,Ahmedabad,Gujarat,deal closed,facebook ads,25/01/2026,Wants brochure emailed
+Neha Nair,neha.nair445@example.com,,Kolkata,West Bengal,interested,leads_on_demand,26/02/2026,Requested video walkthrough
+Rohan Verma,rohan.verma446@example.com,,Chennai,Tamil Nadu,no answer,,27/03/2026,
+Kavya Kapoor,,9865548097,Ahmedabad,Gujarat,not interested,facebook ads,28/04/2026,Asked to call back tomorrow
+Rohan Bhatt,,9571713704,Hyderabad,Telangana,not interested,leads_on_demand,01/05/2026,Comparing with other projects
+Divya Reddy,divya.reddy449@example.com,9534848776,Chennai,Tamil Nadu,interested,facebook ads,02/06/2026,Budget mismatch
+Rahul Reddy,,9629027728,Ahmedabad,Gujarat,interested,facebook ads,03/07/2026,Comparing with other projects
+Vikram Menon,vikram.menon451@example.com,9393530039,Ahmedabad,Gujarat,,sarjapur_plots,04/08/2026,Site visit scheduled
+Arjun Chatterjee,arjun.chatterjee452@example.com,9423557532,Pune,Maharashtra,deal closed,facebook ads,05/09/2026,No response yet
+Ritu Reddy,ritu.reddy453@example.com,9929236386,Mumbai,Maharashtra,follow up later,,06/10/2026,Comparing with other projects
+Meera Rao,meera.rao454@example.com,,Hyderabad,Telangana,,google,07/11/2026,Wants brochure emailed
+Pooja Bhatt,pooja.bhatt455@example.com,9368160253,Kolkata,West Bengal,ringing,,08/12/2026,Site visit scheduled
+Suresh Rao,suresh.rao456@example.com,9919321293,Bangalore,Karnataka,busy right now,meridian_tower,09/01/2026,Comparing with other projects
+Amit Gupta,amit.gupta457@example.com,9755239605,Kolkata,West Bengal,follow up later,varah_swamy,10/02/2026,Requested video walkthrough
+Nikhil Nair,nikhil.nair458@example.com,,Mumbai,Maharashtra,deal closed,varah_swamy,11/03/2026,No response yet
+Divya Singh,divya.singh459@example.com,9926171256,Bangalore,Karnataka,busy right now,leads_on_demand,12/04/2026,Wants brochure emailed
+Ritu Sharma,,,Chennai,Tamil Nadu,deal closed,varah_swamy,13/05/2026,
+Divya Chatterjee,divya.chatterjee461@example.com,9875758979,Mumbai,Maharashtra,ringing,,14/06/2026,Comparing with other projects
+Aditya Verma,,9760161120,Kolkata,West Bengal,ringing,meridian_tower,15/07/2026,Budget mismatch
+Kavya Patel,kavya.patel463@example.com,9381262338,Chennai,Tamil Nadu,not interested,leads_on_demand,16/08/2026,Asked to call back tomorrow
+Vikram Verma,vikram.verma464@example.com,9501044941,Mumbai,Maharashtra,interested,,17/09/2026,No response yet
+Vikram Singh,,9123985215,Pune,Maharashtra,follow up later,google,18/10/2026,Comparing with other projects
+Ritu Nair,ritu.nair466@example.com,9631882803,Chennai,Tamil Nadu,interested,facebook ads,19/11/2026,Asked to call back tomorrow
+Nikhil Reddy,nikhil.reddy467@example.com,9806934441,Delhi,Delhi,,google,20/12/2026,Asked to call back tomorrow
+Rahul Menon,rahul.menon468@example.com,9535622014,Ahmedabad,Gujarat,follow up later,,21/01/2026,Asked to call back tomorrow
+Aditya Singh,aditya.singh469@example.com,,Hyderabad,Telangana,not interested,,22/02/2026,
+Ritu Bhatt,ritu.bhatt470@example.com,,Delhi,Delhi,interested,leads_on_demand,23/03/2026,No response yet
+Kavya Menon,kavya.menon471@example.com,9153136766,Chennai,Tamil Nadu,not interested,leads_on_demand,24/04/2026,Wants brochure emailed
+Karan Verma,karan.verma472@example.com,9114406754,Kolkata,West Bengal,follow up later,facebook ads,25/05/2026,Asked to call back tomorrow
+Arjun Malhotra,arjun.malhotra473@example.com,9775992425,Bangalore,Karnataka,deal closed,google,26/06/2026,Asked to call back tomorrow
+Rohan Iyer,rohan.iyer474@example.com,9274024138,Bangalore,Karnataka,interested,,27/07/2026,
+Sneha Kapoor,sneha.kapoor475@example.com,,Bangalore,Karnataka,deal closed,leads_on_demand,28/08/2026,Site visit scheduled
+Manoj Nair,manoj.nair476@example.com,9865646834,Kolkata,West Bengal,,,01/09/2026,Budget mismatch
+Karan Malhotra,karan.malhotra477@example.com,9256086543,Ahmedabad,Gujarat,,meridian_tower,02/10/2026,Site visit scheduled
+Rahul Joshi,,9390361089,Pune,Maharashtra,no answer,eden_park,03/11/2026,No response yet
+Kavya Sharma,kavya.sharma479@example.com,9193606641,Hyderabad,Telangana,follow up later,leads_on_demand,04/12/2026,
+Nikhil Verma,nikhil.verma480@example.com,9970394330,Pune,Maharashtra,,varah_swamy,05/01/2026,Site visit scheduled
+Suresh Malhotra,suresh.malhotra481@example.com,9695576036,Hyderabad,Telangana,follow up later,meridian_tower,06/02/2026,Comparing with other projects
+Rohan Singh,rohan.singh482@example.com,,Pune,Maharashtra,not interested,eden_park,07/03/2026,No response yet
+Sneha Bhatt,,,Pune,Maharashtra,no answer,facebook ads,08/04/2026,Wants brochure emailed
+Vikram Chatterjee,vikram.chatterjee484@example.com,9919439567,Mumbai,Maharashtra,follow up later,varah_swamy,09/05/2026,
+Rohan Bhatt,,9102841728,Kolkata,West Bengal,ringing,varah_swamy,10/06/2026,Requested video walkthrough
+Rahul Bhatt,rahul.bhatt486@example.com,9238499058,Bangalore,Karnataka,not interested,google,11/07/2026,Site visit scheduled
+Manoj Sharma,manoj.sharma487@example.com,,Chennai,Tamil Nadu,busy right now,,12/08/2026,Site visit scheduled
+Divya Nair,divya.nair488@example.com,9457586919,Pune,Maharashtra,deal closed,varah_swamy,13/09/2026,Requested video walkthrough
+Rohan Gupta,rohan.gupta489@example.com,9421538866,Hyderabad,Telangana,no answer,,14/10/2026,Wants brochure emailed
+Pooja Bhatt,,9908068574,Delhi,Delhi,follow up later,meridian_tower,15/11/2026,Budget mismatch
+Swati Malhotra,,9125432262,Chennai,Tamil Nadu,follow up later,leads_on_demand,16/12/2026,No response yet
+Nikhil Menon,nikhil.menon492@example.com,,Bangalore,Karnataka,busy right now,meridian_tower,17/01/2026,Asked to call back tomorrow
+Meera Sharma,meera.sharma493@example.com,,Pune,Maharashtra,no answer,varah_swamy,18/02/2026,
+Arjun Menon,arjun.menon494@example.com,9325947996,Hyderabad,Telangana,ringing,varah_swamy,19/03/2026,Wants brochure emailed
+Priya Rao,priya.rao495@example.com,9210410989,Hyderabad,Telangana,no answer,meridian_tower,20/04/2026,Site visit scheduled
+Amit Verma,amit.verma496@example.com,9633480304,Hyderabad,Telangana,,facebook ads,21/05/2026,Requested video walkthrough
+Suresh Menon,suresh.menon497@example.com,9840819324,Kolkata,West Bengal,no answer,,22/06/2026,Asked to call back tomorrow
+Divya Reddy,divya.reddy498@example.com,9151558381,Kolkata,West Bengal,ringing,,23/07/2026,Requested video walkthrough
+Divya Singh,,9656744405,Kolkata,West Bengal,follow up later,facebook ads,24/08/2026,Asked to call back tomorrow
+Divya Kapoor,divya.kapoor500@example.com,9598301101,Delhi,Delhi,interested,sarjapur_plots,25/09/2026,No response yet
