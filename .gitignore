@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.next/
+.env
+.env.local
+*.log
+.DS_Store
+coverage/
+
+# Keep the recruiter's assignment brief out of the public repo
+Software Developer (Intern _ Full-Time) Assignment.pdf
