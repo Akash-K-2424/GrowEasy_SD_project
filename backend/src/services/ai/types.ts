@@ -25,3 +25,13 @@ export class LLMProviderError extends Error {
     this.name = "LLMProviderError";
   }
 }
+
+/** Thrown when the selected LLM_PROVIDER is missing its required API key.
+ * A deployment/config mistake, not a per-request failure -- surfaced to the
+ * client as a clear 503 instead of a generic "Internal server error". */
+export class ProviderConfigError extends Error {
+  constructor(message: string) {
+    super(message);
+    this.name = "ProviderConfigError";
+  }
+}

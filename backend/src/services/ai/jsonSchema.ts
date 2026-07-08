@@ -2,8 +2,11 @@ import { CRM_STATUS_VALUES, DATA_SOURCE_VALUES } from "../../schemas/crm.schema"
 
 /**
  * A single JSON Schema, shared across providers, describing one extracted CRM row.
- * Anthropic consumes it as a tool `input_schema`, OpenAI as a `json_schema` response
- * format, and Gemini as a `responseSchema` -- all three accept plain JSON Schema.
+ * Anthropic consumes it as a tool `input_schema` and OpenAI as a `json_schema`
+ * response format, both accepting plain JSON Schema. Gemini's `responseSchema`
+ * only supports a restricted OpenAPI 3.0 subset -- notably no
+ * `additionalProperties` -- so it consumes a stripped copy; see
+ * `toGeminiResponseSchema` below.
  */
 export const rowExtractionJsonSchema = {
   type: "object",
@@ -52,3 +55,28 @@ export const batchExtractionJsonSchema = {
   required: ["rows"],
   additionalProperties: false,
 } as const;
+
+/**
+ * Gemini's `responseSchema` rejects the whole request if it sees a field it
+ * doesn't recognize (e.g. `additionalProperties`) -- unlike Anthropic/OpenAI,
+ * which just ignore extra JSON Schema keywords. It also rejects an empty
+ * string as an `enum` member outright, which we rely on elsewhere to mean
+ * "leave this blank" -- so for Gemini we drop the enum constraint and lean on
+ * `schemas/crm.schema.ts`'s own case-insensitive validation (which already
+ * coerces any out-of-list value to "" regardless of provider) to enforce it
+ * instead. Strip both, recursively.
+ */
+export function toGeminiResponseSchema(schema: unknown): unknown {
+  if (Array.isArray(schema)) {
+    return schema.map(toGeminiResponseSchema);
+  }
+  if (schema !== null && typeof schema === "object") {
+    const entries = Object.entries(schema).filter(([key, value]) => {
+      if (key === "additionalProperties") return false;
+      if (key === "enum" && Array.isArray(value) && value.includes("")) return false;
+      return true;
+    });
+    return Object.fromEntries(entries.map(([key, value]) => [key, toGeminiResponseSchema(value)]));
+  }
+  return schema;
+}

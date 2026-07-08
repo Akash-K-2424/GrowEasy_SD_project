@@ -1,6 +1,7 @@
 import type { NextFunction, Request, Response } from "express";
 import multer from "multer";
 import { CsvParseError } from "../services/csv.service";
+import { ProviderConfigError } from "../services/ai";
 import { logger } from "../utils/logger";
 
 export class HttpError extends Error {
@@ -34,6 +35,12 @@ export function errorHandler(err: unknown, _req: Request, res: Response, _next: 
   }
   if (err instanceof multer.MulterError) {
     res.status(400).json({ success: false, error: { message: err.message } });
+    return;
+  }
+  if (err instanceof ProviderConfigError) {
+    // A deployment/config mistake (missing API key), not a per-request
+    // failure -- worth a distinct status and a message the operator can act on.
+    res.status(503).json({ success: false, error: { message: err.message } });
     return;
   }
   if (err instanceof Error && err.message.includes("Only .csv files are accepted")) {

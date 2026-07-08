@@ -1,8 +1,10 @@
 import { AiBatchResponseSchema, type AiRowExtraction } from "../../schemas/crm.schema";
-import { batchExtractionJsonSchema } from "./jsonSchema";
+import { batchExtractionJsonSchema, toGeminiResponseSchema } from "./jsonSchema";
 import { buildUserPrompt, SYSTEM_PROMPT } from "./prompt";
 import type { ExtractBatchInput, LLMProvider } from "./types";
 import { LLMProviderError } from "./types";
+
+const GEMINI_RESPONSE_SCHEMA = toGeminiResponseSchema(batchExtractionJsonSchema);
 
 export class GeminiProvider implements LLMProvider {
   readonly name = "gemini";
@@ -25,7 +27,7 @@ export class GeminiProvider implements LLMProvider {
           contents: [{ role: "user", parts: [{ text: buildUserPrompt(input) }] }],
           generationConfig: {
             responseMimeType: "application/json",
-            responseSchema: batchExtractionJsonSchema,
+            responseSchema: GEMINI_RESPONSE_SCHEMA,
           },
         }),
       });
