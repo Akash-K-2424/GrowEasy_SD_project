@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import type { ColumnDef } from "@tanstack/react-table";
 import Papa from "papaparse";
-import { Download, RotateCcw } from "lucide-react";
+import { Download, RotateCcw, Search, X } from "lucide-react";
 import { DataTable } from "@/components/table/DataTable";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
@@ -48,6 +48,25 @@ function downloadCrmCsv(records: CrmRecord[]) {
 
 export function ResultStep({ result, onReset }: ResultStepProps) {
   const [tab, setTab] = useState<"imported" | "skipped">("imported");
+  const [search, setSearch] = useState("");
+
+  const query = search.trim().toLowerCase();
+
+  const filteredRecords = useMemo(() => {
+    if (!query) return result.records;
+    return result.records.filter(
+      (r) => r.email.toLowerCase().includes(query) || r.mobile_without_country_code.includes(query)
+    );
+  }, [result.records, query]);
+
+  const filteredSkipped = useMemo(() => {
+    if (!query) return result.skipped;
+    return result.skipped.filter(
+      (r) =>
+        r.reason.toLowerCase().includes(query) ||
+        Object.values(r.raw).some((v) => v.toLowerCase().includes(query))
+    );
+  }, [result.skipped, query]);
 
   const successColumns = useMemo<ColumnDef<CrmRecord, unknown>[]>(
     () =>
@@ -117,6 +136,27 @@ export function ResultStep({ result, onReset }: ResultStepProps) {
           </button>
         </div>
 
+        <div className="relative w-full sm:w-64">
+          <Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-neutral-400" />
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="Search by email or phone number..."
+            className="w-full rounded-lg border border-neutral-200 bg-white py-2 pl-9 pr-8 text-sm text-neutral-800 placeholder:text-neutral-400 focus:border-indigo-500 focus:outline-none dark:border-neutral-800 dark:bg-neutral-900 dark:text-neutral-100"
+          />
+          {search && (
+            <button
+              type="button"
+              onClick={() => setSearch("")}
+              aria-label="Clear search"
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-neutral-400 hover:text-neutral-600 dark:hover:text-neutral-300"
+            >
+              <X className="h-4 w-4" />
+            </button>
+          )}
+        </div>
+
         <div className="flex gap-2">
           <Button variant="secondary" onClick={() => downloadCrmCsv(result.records)} disabled={result.records.length === 0}>
             <Download className="h-4 w-4" />
@@ -132,15 +172,21 @@ export function ResultStep({ result, onReset }: ResultStepProps) {
       {tab === "imported" ? (
         <DataTable
           columns={successColumns}
-          data={result.records}
-          emptyMessage="No records were successfully imported."
+          data={filteredRecords}
+          emptyMessage={
+            query ? "No imported leads match your search." : "No records were successfully imported."
+          }
           className="max-h-[32rem]"
         />
       ) : (
         <DataTable
           columns={skippedColumns}
-          data={result.skipped}
-          emptyMessage="Nothing was skipped -- every row had an email or mobile number."
+          data={filteredSkipped}
+          emptyMessage={
+            query
+              ? "No skipped rows match your search."
+              : "Nothing was skipped -- every row had an email or mobile number."
+          }
           className="max-h-[32rem]"
         />
       )}
