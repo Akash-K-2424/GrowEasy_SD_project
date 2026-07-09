@@ -151,11 +151,13 @@ cd backend
 npm test
 ```
 
-49 unit tests cover CSV parsing edge cases (quoted commas/newlines, blank rows,
+54 unit tests cover CSV parsing edge cases (quoted commas/newlines, blank rows,
 missing headers), the batching utility, retry/backoff behavior, the skip rule,
 batch-failure isolation, the mock provider's column-keyword matching, the schema
-hardening (type coercion, case-insensitive enums), and the full normalization
-layer (date rescue, multi-email/mobile splitting, single-line guarantee).
+hardening (type coercion, case-insensitive enums), the full normalization
+layer (date rescue, multi-email/mobile splitting, single-line guarantee),
+Gemini's restricted response-schema subset, and missing-API-key configuration
+errors.
 
 For manual testing, `samples/` contains three realistic exports (Facebook-style,
 real-estate CRM style, and a deliberately messy sales report with multi-phone

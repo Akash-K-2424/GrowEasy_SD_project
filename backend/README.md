@@ -8,5 +8,5 @@ overview, setup instructions, and API docs.
 npm install
 cp .env.example .env   # set LLM_PROVIDER + matching API key
 npm run dev            # http://localhost:4000
-npm test                # 49 unit tests
+npm test                # 54 unit tests
 ```
