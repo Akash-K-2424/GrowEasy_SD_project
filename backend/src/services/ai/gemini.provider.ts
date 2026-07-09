@@ -1,10 +1,12 @@
 import { AiBatchResponseSchema, type AiRowExtraction } from "../../schemas/crm.schema";
+import { fetchWithTimeout } from "../../utils/fetchWithTimeout";
 import { batchExtractionJsonSchema, toGeminiResponseSchema } from "./jsonSchema";
 import { buildUserPrompt, SYSTEM_PROMPT } from "./prompt";
 import type { ExtractBatchInput, LLMProvider } from "./types";
 import { LLMProviderError } from "./types";
 
 const GEMINI_RESPONSE_SCHEMA = toGeminiResponseSchema(batchExtractionJsonSchema);
+const REQUEST_TIMEOUT_MS = 30_000;
 
 export class GeminiProvider implements LLMProvider {
   readonly name = "gemini";
@@ -19,18 +21,22 @@ export class GeminiProvider implements LLMProvider {
 
     let res: Response;
     try {
-      res = await fetch(url, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
-          contents: [{ role: "user", parts: [{ text: buildUserPrompt(input) }] }],
-          generationConfig: {
-            responseMimeType: "application/json",
-            responseSchema: GEMINI_RESPONSE_SCHEMA,
-          },
-        }),
-      });
+      res = await fetchWithTimeout(
+        url,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
+            contents: [{ role: "user", parts: [{ text: buildUserPrompt(input) }] }],
+            generationConfig: {
+              responseMimeType: "application/json",
+              responseSchema: GEMINI_RESPONSE_SCHEMA,
+            },
+          }),
+        },
+        REQUEST_TIMEOUT_MS
+      );
     } catch (err) {
       throw new LLMProviderError(`Gemini request failed: ${(err as Error).message}`, err);
     }

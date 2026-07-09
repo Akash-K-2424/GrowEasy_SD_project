@@ -1,10 +1,12 @@
 import { AiBatchResponseSchema, type AiRowExtraction } from "../../schemas/crm.schema";
+import { fetchWithTimeout } from "../../utils/fetchWithTimeout";
 import { batchExtractionJsonSchema } from "./jsonSchema";
 import { buildUserPrompt, SYSTEM_PROMPT } from "./prompt";
 import type { ExtractBatchInput, LLMProvider } from "./types";
 import { LLMProviderError } from "./types";
 
 const OPENAI_URL = "https://api.openai.com/v1/chat/completions";
+const REQUEST_TIMEOUT_MS = 30_000;
 
 export class OpenAiProvider implements LLMProvider {
   readonly name = "openai";
@@ -17,28 +19,32 @@ export class OpenAiProvider implements LLMProvider {
   async extractBatch(input: ExtractBatchInput): Promise<AiRowExtraction[]> {
     let res: Response;
     try {
-      res = await fetch(OPENAI_URL, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${this.apiKey}`,
-        },
-        body: JSON.stringify({
-          model: this.model,
-          messages: [
-            { role: "system", content: SYSTEM_PROMPT },
-            { role: "user", content: buildUserPrompt(input) },
-          ],
-          response_format: {
-            type: "json_schema",
-            json_schema: {
-              name: "crm_batch_extraction",
-              schema: batchExtractionJsonSchema,
-              strict: true,
-            },
+      res = await fetchWithTimeout(
+        OPENAI_URL,
+        {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json",
+            Authorization: `Bearer ${this.apiKey}`,
           },
-        }),
-      });
+          body: JSON.stringify({
+            model: this.model,
+            messages: [
+              { role: "system", content: SYSTEM_PROMPT },
+              { role: "user", content: buildUserPrompt(input) },
+            ],
+            response_format: {
+              type: "json_schema",
+              json_schema: {
+                name: "crm_batch_extraction",
+                schema: batchExtractionJsonSchema,
+                strict: true,
+              },
+            },
+          }),
+        },
+        REQUEST_TIMEOUT_MS
+      );
     } catch (err) {
       throw new LLMProviderError(`OpenAI request failed: ${(err as Error).message}`, err);
     }
